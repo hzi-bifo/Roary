@@ -24,7 +24,7 @@ export os
 if [ "$MAFFT_BINARIES" ]; then
 	prefix="$MAFFT_BINARIES"
 else
-	prefix=/net/metagenomics/data/from_moni/old.tzuhao/seq2geno.dirty.denovo/lib/Roary/build/mafft-7.271-without-extensions/build/libexec/mafft
+	prefix=/home/thkuo/projects/sgp_testing/v2/seq2geno2pheno/seq2geno/denovo/lib/Roary/build/mafft-7.271-without-extensions/build/libexec/mafft
 fi
 export prefix
 

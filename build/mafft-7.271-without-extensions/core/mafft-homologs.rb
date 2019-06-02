@@ -5,7 +5,7 @@ localdb = "sp"
 # by locally installed blast. Leave this if you do 
 # not use the '-l' option.
 
-mafftpath = "/net/metagenomics/data/from_moni/old.tzuhao/seq2geno.dirty.denovo/lib/Roary/build/mafft-7.271-without-extensions/build/bin/mafft"   
+mafftpath = "/home/thkuo/projects/sgp_testing/v2/seq2geno2pheno/seq2geno/denovo/lib/Roary/build/mafft-7.271-without-extensions/build/bin/mafft"   
 # path of mafft. "/usr/local/bin/mafft"
 # if mafft is in your command path, "mafft" is ok.
 
